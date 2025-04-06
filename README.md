@@ -10,4 +10,6 @@ this responsitory contains the programming projects I completed during the Stanf
 ## PotholeFilling
   This program shows karel filling 3 potholes.
 ## SteepleChase
+  This program shows Karel cross all the steeples.
 ## StepUp
+
