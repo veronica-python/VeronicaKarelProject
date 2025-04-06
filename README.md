@@ -6,7 +6,7 @@ this responsitory contains the programming projects I completed during the Stanf
   [BeeperRow code](https://github.com/veronica-python/VeronicaKarelProject/blob/main/BeeperRow.py)
   
 ## BeeperRowAdv
-  This program makes Karel fill up Street 1 with some beepers already existed.
+  This program makes Karel fill up Street 1 with some beepers already existed.\
   [BeeperRowAdv code](https://github.com/veronica-python/VeronicaKarelProject/blob/main/BeeperRowAdv.py)
   
 ## MoveToTheEnd
