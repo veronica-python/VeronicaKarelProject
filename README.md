@@ -11,10 +11,11 @@ this responsitory contains the programming projects I completed during the Stanf
   
 ## MoveToTheEnd
   This file shows how to use while loop to walk to the end of a certain row in karel world.\
-  [MoveToTheEnd](https://github.com/veronica-python/VeronicaKarelProject/blob/main/MoveToTheEnd.py)
+  [MoveToTheEnd code](https://github.com/veronica-python/VeronicaKarelProject/blob/main/MoveToTheEnd.py)
   
 ## PotholeFilling
   This program shows karel filling 3 potholes.
+  [PatholeFilling code](https://github.com/veronica-python/VeronicaKarelProject/blob/main/PotholeFilling.py)
 ## SteepleChase
   This program shows Karel cross all the steeples.
 ## StepUp
