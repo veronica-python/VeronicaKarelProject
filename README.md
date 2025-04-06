@@ -2,8 +2,9 @@
 this responsitory contains the programming projects I completed during the Stanford Karel package course.
 
 ## BeeperRow
-  This program makes Karel fill up Street 1 with beepers.
-  [https://github.com/veronica-python/VeronicaKarelProject/blob/main/BeeperRow.py]
+  This program makes Karel fill up Street 1 with beepers.\
+  [BeeperRow code](https://github.com/veronica-python/VeronicaKarelProject/blob/main/BeeperRow.py)
+  
 ## BeeperRowAdv
   This program makes Karel fill up Street 1 with some beepers already existed.
 ## MoveToTheEnd
